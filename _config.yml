@@ -1,0 +1,4 @@
+title: Your Site Title
+description: Your site description
+url: https://yourusername.github.io # Your GitHub Pages URL
+baseurl: "\index.html" # The subpath of your site, if you are using a custom domain
